@@ -1,0 +1,15 @@
+samsungcloudsolution
+(\.|^)googleadservices\.com$
+(\.|^)e\.foundation$
+^(|.+-)graph(|-fallback)\.(facebook|fbpigeon|messenger|instagram|whatsapp)\.(com|net)$
+^star(|\..*)\.(facebook|fbpigeon|messenger|instagram|whatsapp)\.(com|net)$
+^mqtt(|-.*)\.(facebook|fbpigeon|messenger|instagram|whatsapp)\.(com|net)$
+^(www|web|connect)\.(facebook|fbpigeon|messenger|instagram|whatsapp)\.(com|net)$
+(\.|^)digicert\.com$
+(\.|^)revnewsharpoint\.com$
+(\.|^)delivery\.mp\.microsoft\.com$
+(\.|^)brave\.com$
+(\.|^)googleapis\.com$
+(\.|^)revanced\.app$
+(\.|^)godaddy\.com$
+(\.|^)insomnia\.rest$
